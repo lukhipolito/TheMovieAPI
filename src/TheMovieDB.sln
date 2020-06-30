@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMovieDB.API", "TheMovieDB.API\TheMovieDB.API.csproj", "{94600EE6-2527-474E-AED4-4AEAE05CF2C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheMovieDB.Core", "TheMovieDB.Core\TheMovieDB.Core.csproj", "{290E3C1E-AC80-4733-B960-79B7DC8DE819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94600EE6-2527-474E-AED4-4AEAE05CF2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94600EE6-2527-474E-AED4-4AEAE05CF2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94600EE6-2527-474E-AED4-4AEAE05CF2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94600EE6-2527-474E-AED4-4AEAE05CF2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290E3C1E-AC80-4733-B960-79B7DC8DE819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290E3C1E-AC80-4733-B960-79B7DC8DE819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290E3C1E-AC80-4733-B960-79B7DC8DE819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290E3C1E-AC80-4733-B960-79B7DC8DE819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673C13CB-AA53-41DD-8356-AA1D624C0894}
+	EndGlobalSection
+EndGlobal
